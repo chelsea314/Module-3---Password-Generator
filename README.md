@@ -14,7 +14,7 @@ Follow Link to view my Module 3 - Challenge - Password Generator:
 
 # View Site Screenshot
 
-![Chelsea Sexton Professional Portfolio](./images/Screen%20Shot%202022-06-27%20at%2011.50.24%20PM.png)
+![Chelsea Sexton Professional Portfolio](./assets/images/Screen%20Shot%202022-06-27%20at%2011.50.24%20PM.png)
 
 <br>
 
